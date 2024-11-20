@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MySwaggerApi.props" />
+</Project>
